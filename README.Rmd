@@ -8,9 +8,8 @@ output: github_document
 # Code for internship
 
 ```{r}
-plot(1:9)
+plot((1:9)^2)
 ```
 
-Test [@Dirac1953888]
 
 # References
